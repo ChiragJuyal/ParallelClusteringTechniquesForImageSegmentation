@@ -1,0 +1,2 @@
+# ParallelClusteringTechniquesForImageSegmentation
+Efficient Clustering Techniques for Segmenting Stacked MRI Images
